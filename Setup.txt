@@ -1,0 +1,39 @@
+########  Back End  ########
+npm install bcryptjs cloudinary cookie-parser cors dotenv express 
+i jsonwebtoken mongoose multer nodemon npm
+
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.7.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "i": "^0.3.7",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.3",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.10",
+    "npm": "^11.4.2"
+
+########   Front End  ########
+  npm create vite@latest client
+  cd client
+  npm install
+  npm run dev
+  npm add tailwindcss @tailwindcss/vite
+
+  npm install @reduxjs/toolkit axios class-variance-authority clsx lucide-react react react-dom react-redux react-router-dom tailwind-merge tailwindcss-animate
+  npm install -D tailwindcss postcss autoprefixer
+  npx shadcn@latest init
+   npm install -D @tailwindcss/postcss
+
+########   Some Link  ########
+1)https://ui.shadcn.com/
+
+######## PayPal Developer Account #########
+Browser me jao: developer.paypal.com
+Login / Sign up karo
+Dashboard → My Apps & Credentials
+REST API apps section me
+Create App karo
+App ka naam do
